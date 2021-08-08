@@ -10,7 +10,7 @@
 
 - 🎮 Saya juga suka main game
 
-- 📧 Contact Me : <a href="venomreyy@gmail.com</a>
+- 📧 Contact Me : venomreyy@gmail.com</a>
 
 - ⚡ Makan 🍔 Tidur 😴 Daring 💻 kerja 💼 Gitu Terus 🔁
 
