@@ -21,4 +21,4 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/venom_cyber_security?utm_medium=copy_link)
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/Rediawan)
-[![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCxoJAzVIWX6bz3HE8nHyVGQ)channel/UCxoJAzVIWX6bz3HE8nHyVGQ)
+[![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCxoJAzVIWX6bz3HE8nHyVGQ)
